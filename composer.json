@@ -1,5 +1,5 @@
 {
-    "name": "php-model",
+    "name": "yixin/php-model",
     "type": "library",
     "description": "A smart way to opreate database for Slim Framework",
     "version": "0.0.1",
